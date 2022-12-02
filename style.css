@@ -1,0 +1,36 @@
+body{
+  background-color:#c5b3df;
+  text-align: center;
+
+}
+
+#promptGame{
+font-style: italic;
+font-family: Comic Sans MS, Comic Sans, cursive;}
+
+button{
+  height:100px;
+  width:100px;
+  border-radius: 50%;
+  background-color:#b04f6c;
+  font-weight: bold;
+  margin: 55px;
+  border:solid 3px #d12323;
+  color:antiquewhite;
+
+}
+
+button:hover{
+  opacity: 0.2;
+  cursor: pointer;
+}
+
+*{
+  color:#a62b79;
+}
+h1{
+  color: #770e60;
+  border-top:2px double white;
+  border-bottom:2px double white;
+  font-family: Garamond;
+}
